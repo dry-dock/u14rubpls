@@ -9,7 +9,8 @@ Shippable CI image for Ruby on Ubuntu 14.04 with commonly used services. Availab
 4. 2.1.5
 5. 2.2.1
 
-Services
+**Services:**
+
 1. elasticsearch 1.5
 2. memcached 1.4
 3. mongodb 3.0
